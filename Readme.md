@@ -53,7 +53,7 @@ python3 spatial_ensemble/tools/eval.py -b 256 --experiment-name your_exp -f spat
 
 After pretraining on 8 NVIDIA 2080 GPUS and 256 batch-sizes, the results of linear-evaluation are:
 
-|         pre-train code                                                          |pre-train</br> epochs| top1/top5 accuracy | wights |
+|         pre-train code                                                          |pre-train epochs| top1/top5 accuracy | weights |
 |---------------------------------------------------------------------------------|---------------------| ------------------ | ------ |
 |[path](spatial_ensemble/exps/sts/exp_8_2080ti/sts_200e_32batch_1mm_099_exp.py)   | 200                 |  72.7/ 90.9        |  [link](https://drive.google.com/drive/folders/1_B72bSpj43lBI-4ruLLFpSQZBp4CQTSQ?usp=sharing)    |
 |[path](spatial_ensemble/exps/sts/exp_8_2080ti/sts_300e_32batch_1mm_099_exp.py)   | 300                 |  73.0/ 91.3        |  [link](https://drive.google.com/drive/folders/1_B72bSpj43lBI-4ruLLFpSQZBp4CQTSQ?usp=sharing)     |
