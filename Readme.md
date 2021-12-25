@@ -1,6 +1,6 @@
 # Spatial Ensemble
 
-Code for the paper Spatial Ensemble: a Novel Model Smoothing Mechanism for Student-Teacher Framework in NeurIPS 2021. The paper is available [here](https://proceedings.neurips.cc/paper/2021/file/8597a6cfa74defcbde3047c891d78f90-Paper.pdf)
+Code for the paper Spatial Ensemble: a Novel Model Smoothing Mechanism for Student-Teacher Framework in NeurIPS 2021. The paper is available [here](https://proceedings.neurips.cc/paper/2021/file/8597a6cfa74defcbde3047c891d78f90-Paper.pdf).
 
 ![image](figures/intro.png)
 
@@ -64,6 +64,7 @@ After pretraining on 8 NVIDIA 2080 GPUS and 256 batch-sizes, the results of line
 
 if you find this repo helpful, please consider citing our paper:
 
+```
 @article{huang2021spatial,
   title={Spatial Ensemble: a Novel Model Smoothing Mechanism for Student-Teacher Framework},
   author={Huang, Tengteng and Sun, Yifan and Wang, Xun and Yao, Haotian and Zhang, Chi},
@@ -71,6 +72,7 @@ if you find this repo helpful, please consider citing our paper:
   volume={34},
   year={2021}
 }
+```
 
 
 # Acknowledgements
